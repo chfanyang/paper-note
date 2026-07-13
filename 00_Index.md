@@ -13,6 +13,7 @@
 ### 02 World Action Models
 
 - [[02_World_Action_Models/Cosmos_Policy|Cosmos Policy]]：把 pretrained video diffusion model 微调成 policy、world model 和 value model。
+- [[02_World_Action_Models/DreamZero|DreamZero / WAM]]：联合预测 future video 与 action 的 World Action Model，强调 zero-shot generalization 与 cross-embodiment transfer。
 
 ### 03 Streaming VLA
 
