@@ -2,54 +2,62 @@
 
 tags: #paper
 
-## 1. Basic Info
+## 1. 基本信息
 
-- Year:
-- Venue / arXiv:
-- Category:
-- Keywords:
-- Relation to my work:
-- Reading status:
+- 年份：
+- 会议 / arXiv：
+- 类别：
+- 关键词：
+- 和我研究的关系：
+- 阅读状态：
 
-## 2. One-sentence Summary
-
-
-## 3. Motivation
+## 2. 一句话总结
 
 
-## 4. Method
-
-### 4.1 Overall Architecture
+## 3. 核心动机
 
 
-### 4.2 Key Modules
+## 4. 方法
+
+### 4.1 整体结构
 
 
-### 4.3 Training Objective
+### 4.2 关键模块
 
 
-### 4.4 Inference Pipeline
+### 4.3 训练目标
 
 
-## 5. Experiments
-
-- Benchmarks:
-- Baselines:
-- Main results:
-- Ablations:
-
-## 6. Strengths
+### 4.4 推理流程
 
 
-## 7. Weaknesses / Limitations
+## 5. 图解
+
+```mermaid
+flowchart TD
+    A[输入] --> B[核心模块]
+    B --> C[输出]
+```
+
+## 6. 实验
+
+- Benchmark：
+- Baseline：
+- 主要结果：
+- 消融实验：
+
+## 7. 优点
 
 
-## 8. Connection to My Research
+## 8. 局限 / 问题
 
 
-## 9. Useful Sentences / Ideas
+## 9. 和我研究的关系
 
 
-## 10. Related Notes
+## 10. 可借鉴的表达 / 观点
+
+
+## 11. 相关笔记
 
 - 
